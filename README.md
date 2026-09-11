@@ -193,7 +193,7 @@ Author
 BIKILA GIRAGN
 Cybersecurity Professional B083
 
-LinkedIn: linkedin.com/in/bikila-giragn-827499241
+LinkedIn: https://www.linkedin.com/in/bikila-giragn-827499241
 Email: bikila.girag@gmail.com
 
 📌 Project Information
